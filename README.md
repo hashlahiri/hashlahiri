@@ -4,6 +4,8 @@
 :vulcan_salute: I love playing Chess:chess_pawn:, travelling:mountain_snow:, coffee:coffee: and the ocassional video games:video_game:
 
 ### :mage_man: I'm always looking to collaborate with others on interesting projects. Feel free to reach out incase you want to get intouch also.
-
-:thought_balloon: Instagram: https://www.instagram.com/hashlahiri/ <br />
-:thought_balloon: Email: helloclahiri@outlook.com
+<p align="center">
+  <a href="https://www.instagram.com/hashlahiri/"><img height="30" src="https://github.com/hashlahiri/hashlahiri/blob/main/instagram.png"></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/chanakya-lahiri-zeal/"><img height="30" src="https://github.com/hashlahiri/hashlahiri/blob/main/linkedin.png"></a>&nbsp;&nbsp;
+  <a href="mailto:helloclahiri@outlook.com"><img height="30" src="https://github.com/hashlahiri/hashlahiri/blob/main/outlook.png"></a>
+</p>
