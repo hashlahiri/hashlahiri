@@ -1,5 +1,5 @@
 # Hi, I'm Chanakya - @hashlahiri
-:wave: I am a Software Engineer who likes to doodle scalable things that solve real world problems. I have a passion for learning and sharing my knowledge with others (including creative doodling) as publicly as possible. If you found some of my doodles to be interesting or of value, give me a shoutout at <b>@hashlahiri</b> or you could give me some :sparkling_heart: on <a href="mailto:helloclahiri@outlook.com">mail</a>. 
+:wave: I am a Software Application Developer who likes to doodle scalable things that solve real world problems. I have a passion for learning and sharing my knowledge with others (including creative doodling) as publicly as possible. If you found some of my doodles to be interesting or of value, give me a shoutout at <b>@hashlahiri</b> or you could give me some :sparkling_heart: on <a href="mailto:helloclahiri@outlook.com">mail</a>. 
 
 :vulcan_salute: I love playing Chess:chess_pawn:, Travelling:mountain_snow:, Coffee:coffee: and the ocassional Video Games:video_game:
 
