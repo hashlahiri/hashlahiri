@@ -28,10 +28,7 @@
 <table align="center"> 
   <tr>
     <td>
-      <h2>Chanakya's GitHub stats</h2>
-    </td>
-    <td>
-      <img alt="Chanakya GitHub stats" src="https://github-readme-stats.vercel.app/api?username=hashlahiri&show_icons=true&theme=tokyonight" />
+      <img alt="Welcome To My GitHub" src="https://github-readme-stats.vercel.app/api?username=hashlahiri&show_icons=true&theme=tokyonight" />
     </td>
   </tr>
 </table>
