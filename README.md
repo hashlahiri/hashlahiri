@@ -12,7 +12,6 @@
   <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank"><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></a>
   <a href="https://www.javascript.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/></a>
   <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/typescript.png"/></a>
-  <a href="https://www.json.org/json-en.html" target="_blank"><img src="https://img.icons8.com/color/48/000000/json--v1.png"/></a>
   <a href="https://angular.io/" target="_blank"><img src="https://img.icons8.com/color/48/000000/angularjs.png"/></a>
   <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/></a>
   <a href="https://sass-lang.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/sass.png"/></a>
@@ -20,9 +19,9 @@
   <a href="https://www.mysql.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/></a>
   <a href="https://git-scm.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/git.png"/></a>
   <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/></a>
-  <a href="https://spring.io/tools" target="_blank"><img src="https://img.icons8.com/office/48/000000/java-eclipse.png"/></a>
+  <a href="" target="_blank"><img src="https://img.icons8.com/color/48/000000/spring-logo.png"/></a>
+  <a href="" target="_blank"><img src="https://img.icons8.com/color/50/000000/amazon-web-services.png"/></a>
   <a href="https://www.postman.com/" target="_blank"><img src="https://img.icons8.com/dusk/48/000000/postman-api.png"/></a>
-  <a href="" target="_blank"><img src="https://img.icons8.com/color/48/000000/backend-development.png"/></a>
 </p>
 <hr>
 <table align="center"> 
