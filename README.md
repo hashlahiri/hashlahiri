@@ -18,8 +18,8 @@
   <a href="https://www.mysql.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/></a>
   <a href="https://git-scm.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/git.png"/></a>
   <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/></a>
-  <a href="" target="_blank"><img src="https://img.icons8.com/color/48/000000/spring-logo.png"/></a>
-  <a href="" target="_blank"><img src="https://img.icons8.com/color/50/000000/amazon-web-services.png"/></a>
+  <a href="https://spring.io/" target="_blank"><img src="https://img.icons8.com/color/48/000000/spring-logo.png"/></a>
+  <a href="https://aws.amazon.com/" target="_blank"><img src="https://img.icons8.com/color/50/000000/amazon-web-services.png"/></a>
   <a href="https://www.postman.com/" target="_blank"><img src="https://img.icons8.com/dusk/48/000000/postman-api.png"/></a>
 </p>
 <hr>
