@@ -23,15 +23,15 @@
   <a href="https://www.postman.com/" target="_blank"><img src="https://img.icons8.com/dusk/48/000000/postman-api.png"/></a>
 </p>
 <hr>
-<table align="center"> 
+<!--<table align="center"> 
   <tr>
     <td>
       <img alt="Welcome To My GitHub" src="https://github-readme-stats.vercel.app/api?username=hashlahiri&show_icons=true&theme=tokyonight" />
     </td>
   </tr>
-</table>
+</table>-->
 
-### :mage_man: I'm always looking to collaborate with others on interesting projects. Feel free to reach out incase you want to get intouch also.
+### :mage_man: Feel free to reach out incase you want to collaborate on something interesting.
 <p align="center">
   <a href="https://www.instagram.com/hashlahiri/"><img height="30" src="https://github.com/hashlahiri/hashlahiri/blob/main/instagram.png"></a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/chanakya-lahiri-zeal/"><img height="30" src="https://github.com/hashlahiri/hashlahiri/blob/main/linkedin.png"></a>&nbsp;&nbsp;
