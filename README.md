@@ -34,6 +34,6 @@
 ### :mage_man: Feel free to reach out incase you want to collaborate on something interesting.
 <p align="center">
   <a href="https://www.instagram.com/hashlahiri/"><img height="30" src="https://github.com/hashlahiri/hashlahiri/blob/main/instagram.png"></a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/chanakya-lahiri-zeal/"><img height="30" src="https://github.com/hashlahiri/hashlahiri/blob/main/linkedin.png"></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/chanakyalahiri/"><img height="30" src="https://github.com/hashlahiri/hashlahiri/blob/main/linkedin.png"></a>&nbsp;&nbsp;
   <a href="mailto:helloclahiri@outlook.com"><img height="30" src="https://github.com/hashlahiri/hashlahiri/blob/main/outlook.png"></a>
 </p>
