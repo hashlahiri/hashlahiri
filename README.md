@@ -7,9 +7,6 @@
   <img class="image" src="https://github.com/hashlahiri/types-on-its-own/blob/main/header.svg" alt="Click to see the source">
  </a>
 </div>
-
-### 🛠️ Want to build something fun?
-
 <div align="center">
   <!-- Java -->
   <a href="https://www.java.com/en/" target="_blank"><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/></a>
