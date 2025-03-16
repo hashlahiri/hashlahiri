@@ -1,6 +1,6 @@
 ## Hi, I'm Chanakya - @hashlahiri
 
-👨‍💻 Seasoned FullStack Software Application Developer with a focus on **Java backend**
+👨‍💻 Seasoned FullStack Software Engineer with a focus on **Go & Java backend**
 
 <div align="center">
  <a class="link" href="https://github.com/hashlahiri/types-on-its-own/blob/main/header.svg">
