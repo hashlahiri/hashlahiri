@@ -1,11 +1,7 @@
 ## Hi, I'm Chanakya - @hashlahiri
 
-👨‍💻 Seasoned FullStack Software Engineer with a focus on **Go & Java backend**
-
 <div align="center">
- <a class="link" href="https://github.com/hashlahiri/types-on-its-own/blob/main/header.svg">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Futura&weight=600&size=30&pause=1000&color=17AE0AE6&center=true&random=true&width=435&lines=Hi%2C+Lets+build+something+cool!" alt="Typing SVG" /></a>
- </a>
+  <img src="https://github.com/hashlahiri/Hi-its-me/blob/main/assets/screens/screen1.png" alt="Homepage hero preview" width="900">
 </div>
 <div align="center">
   <p align="center">
@@ -29,9 +25,7 @@
   <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png"/>
  </p>
 </div>
-<hr />
 <div align="right">
-  <p>🤝 Let's connect for some :chess_pawn: :mountain_snow: or a cup of :coffee:</p>
   <a href="https://www.instagram.com/hashlahiri/"><img height="30" src="https://github.com/hashlahiri/hashlahiri/blob/main/instagram.png"></a>  
   <a href="https://www.linkedin.com/in/chanakyalahiri/"><img height="30" src="https://github.com/hashlahiri/hashlahiri/blob/main/linkedin.png"></a>  
   <a href="mailto:helloclahiri@gmail.com"><img height="30" src="https://img.icons8.com/color/48/gmail-new.png"></a>
