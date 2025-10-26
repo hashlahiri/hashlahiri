@@ -1,4 +1,4 @@
-## Hi, I'm Chanakya - @hashlahiri
+## Hi, I'm Chanakya
 
 <div align="center">
   <img src="https://github.com/hashlahiri/Hi-its-me/blob/main/assets/screens/screen1.png" alt="Homepage hero preview" width="900">
